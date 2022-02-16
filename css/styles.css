@@ -7,12 +7,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-/* @font-face {
-  font-family: "guanabara-sans-4-3";
-  src: url("../fonts/Guanabara Sans Black.otf") format("woff"),
-    url("../fonts/Guanabara Sans Black.otf") format("opentype"),
-    url("../fonts/Guanabara Sans Black.otf") format("truetype");
-} */
+
 body {
   background-color: #fafafa;
   font-family: "Roboto", sans-serif;
