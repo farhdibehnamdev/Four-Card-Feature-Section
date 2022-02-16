@@ -1,6 +1,6 @@
-# Three Column Preivew Card Component
+# Four card feature section solution
 
-The [Three Column Preview Card](https://farhdibehnamdev.github.io/Three-Column-Preview-Card/) is designed to practice and explore basic HTML and CSS.
+The [Four card feature section solution](https://farhdibehnamdev.github.io/Four-Card-Feature-Section/) is designed to practice and explore basic HTML and CSS.
 
 The template is a guide meant for you to explore and change to ✨*make it your own*✨
 
@@ -31,11 +31,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./3-Columns-Preview-Card.png)
+![](./Four-Card.jpg)
 
 ### Links
 
-- Live Site URL: [Three Column Preview Card](https://farhdibehnamdev.github.io/Three-Column-Preview-Card/)
+- Live Site URL: [Three Column Preview Card](https://farhdibehnamdev.github.io/Four-Card-Feature-Section/)
 
 ## My process
 
@@ -43,13 +43,12 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Flexbox
-- CSS Grid
 
 ## helpful resources
 
 #### Fonts
 
-- [All Free Fonts](https://www.allfreefonts.co/guanabara-sans-font/)
+- [Google Fonts](https://fonts.google.com/specimen/Zen+Kaku+Gothic+Antique)
 
 #### CSS
 
